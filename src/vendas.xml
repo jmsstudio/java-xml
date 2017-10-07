@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<venda moeda="real" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vendas-schema.xsd">
+    <formaDePagamento>Dinheiro</formaDePagamento>
+    <produtos>
+        <produto>
+            <nome>Iphone X</nome>
+            <preco>9999.99</preco>
+        </produto>
+        <produto>
+            <nome>Bicicleta aro 21</nome>
+            <preco>199.00</preco>
+        </produto>
+        <produto>
+            <nome>Bola</nome>
+            <preco>20.00</preco>
+        </produto>
+    </produtos>
+</venda>
